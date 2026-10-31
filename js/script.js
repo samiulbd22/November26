@@ -91,7 +91,7 @@ const members = {
         
         // pre-previous month list
         post_payable        :2587,
-        previous_paid       :3800,
+        previous_paid       :4300,
         previous_dining_cost:1650,
         payment             :undefined,
         // running month
@@ -136,7 +136,7 @@ const members = {
         // pre-previous month list
         post_payable        :3434,
         previous_paid       :6000,
-        previous_dining_cost:1980,
+        previous_dining_cost:2046,
         payment             :undefined,
         // running month
         stay_cost       :3500,
@@ -200,7 +200,7 @@ const members = {
         // pre-previous month list
         post_payable        :3754,
         previous_paid       :6000,
-        previous_dining_cost:2880,//59
+        previous_dining_cost:2928,//61
         payment             :undefined,
         // running month
         stay_cost       :2800,
@@ -221,7 +221,7 @@ const members = {
         // pre-previous month list
         post_payable        :3879,
         previous_paid       :6500,
-        previous_dining_cost:1920,//60
+        previous_dining_cost:2016,//60
         payment             :undefined,
         // running month
         stay_cost       :3500,
