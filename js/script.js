@@ -93,7 +93,7 @@ const members = {
         post_payable        :2587,
         previous_paid       :4300,
         previous_dining_cost:1650,
-        payment             :undefined,
+        payment             :{"11/11/26-DBBL":2000,"16/11/26-DBBL":1000},
         // running month
         stay_cost       :2000,
         garage_cost     :0,
@@ -116,7 +116,7 @@ const members = {
         post_payable        :3137,
         previous_paid       :8000,
         previous_dining_cost:2508,
-        payment             :undefined,
+        payment             :{"13/11/26-Cash":2000,"15/11/26-Cash":500},
         // running month{"04/08/25-Cash":4550}
         stay_cost       :2300,
         garage_cost     :0,
@@ -124,7 +124,7 @@ const members = {
         running_paid    :2500,
         running_meal    :19,
         // method calling
-        depositDate: new Date("November 17, 2026").getDate(),
+        depositDate: new Date("November 25, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -137,15 +137,15 @@ const members = {
         post_payable        :3434,
         previous_paid       :6000,
         previous_dining_cost:2046,
-        payment             :undefined,
+        payment             :{"11/11/26-Cash":5000,"16/11/26-Cash":1000},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :3850,//00
-        running_paid    :5000,
+        running_paid    :6000,
         running_meal    :37,
         // method calling
-		depositDate: new Date("November 10, 2026").getDate(),
+		depositDate: new Date("November 16, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -158,7 +158,7 @@ const members = {
         post_payable        :6793,
         previous_paid       :10000,
         previous_dining_cost:3420,
-        payment             :undefined,
+        payment             :{"13/11/26-Cash":4000},
         // running month
         stay_cost       :0,
         garage_cost     :0,
@@ -166,7 +166,7 @@ const members = {
         running_paid    :4000,
         running_meal    :32,
         // method calling
-		depositDate: new Date("November 25, 2026").getDate(),
+		depositDate: new Date("November 30, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -187,7 +187,7 @@ const members = {
         running_paid    :1000,
         running_meal    :32,
         // method calling
-		depositDate: new Date("November 10, 2026").getDate(),
+		depositDate: new Date("November 13, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -201,7 +201,7 @@ const members = {
         post_payable        :3754,
         previous_paid       :6000,
         previous_dining_cost:2928,//61
-        payment             :{"03/11/26-Cash":1000},
+        payment             :{"03/11/26-Cash":1000,"08/11/26-Cash":3000,"12/11/26-Cash":2000,"16/11/26-Cash":500,},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
@@ -209,7 +209,7 @@ const members = {
         running_paid    :6500,
         running_meal    :29,
         // method calling
-		depositDate: new Date("November 15, 2026").getDate(),
+		depositDate: new Date("November 25, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -243,7 +243,7 @@ const members = {
         post_payable        :0,
         previous_paid       :830,
         previous_dining_cost:1650,//60
-        payment             :{"04/11/26-Cash":6000},
+        payment             :{"04/11/26-Cash":6000,"15/11/26-Cash":3000,},
         // running month {"02/07/26-Cash":500}
         stay_cost       :3500,
         garage_cost     :0,
@@ -251,7 +251,7 @@ const members = {
         running_paid    :9000,
         running_meal    :17,
         // method calling
-        depositDate: new Date("November 15, 2026").getDate(),
+        depositDate: new Date("November 30, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
